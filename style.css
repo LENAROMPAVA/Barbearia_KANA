@@ -4,6 +4,10 @@ body {
 	background: #CDAF95;
 }
 
+#banner {
+	width: 100%;
+}
+
 h1 {
 	text-align: center;
 }
@@ -24,6 +28,11 @@ em strong {
 	color: white;
 }
 
-img {
-	width: 100%
+itens {
+	font-style: italic
+    width: 50%;
 }
+
+.beneficios {
+	background: #;
+} 
