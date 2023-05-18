@@ -1,11 +1,16 @@
 /*página de estilização do site da barbearia*/
 
 body {
-	background: #CDAF95;
+	.principal{
+        background: #CCCCCC;
+        padding: 30px;
 }
 
 #banner {
 	width: 100%;
+}
+.imagembeneficios {
+    width: 50%;
 }
 
 h1 {
@@ -34,5 +39,17 @@ itens {
 }
 
 .beneficios {
-	background: #;
+	background: #FFFFFF;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
 } 
